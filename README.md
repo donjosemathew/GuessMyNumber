@@ -6,3 +6,5 @@ You can input a number between 1 and 20 and check whether your Guess is same as 
 
 <br><br>
 Try GuessMyNumber Game https://dontech09.github.io/GuessMyNumber/
+<br><br>
+![](Capture.PNG)
